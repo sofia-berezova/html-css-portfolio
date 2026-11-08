@@ -1,0 +1,26 @@
+.myclass1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.myclass2 {
+    color: red;
+    background: beige;
+}
+.myclass3 {
+    background: beige;
+}
+#myid1 {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+.class_sup {
+    color: blue;
+    font-weight: bold;
+}
+h1 {
+    text-align: center;
+}
+h4 {
+    text-align: center;
+}
