@@ -1,0 +1,37 @@
+h1, h3 {
+    text-align: center;
+}
+ 
+#word1 {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+#word2 {
+    font-weight: bold;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+#word3 {
+    color: red;
+    background-color: rgb(199, 194, 194);
+}
+#words {
+    color: aqua;
+}
+.bgcolor {
+    background-color: rgb(155, 155, 155);
+}
+.code1 {
+    color: red;
+    background-color: rgb(199, 194, 194);
+}
+.code-black {
+    color: black;
+}
+#word4 {
+    font-weight: bold;
+}
+#word5 {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
