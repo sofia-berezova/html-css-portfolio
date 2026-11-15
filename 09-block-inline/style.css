@@ -1,0 +1,15 @@
+.boxdiv {
+    border: 2px solid black;
+    margin-bottom: 5px;
+}
+ 
+.stringspan {
+    border: 2px dotted goldenrod;
+    display: inline-block; /* Лучше использовать inline-block, чтобы они стояли в ряд, но имели рамки */
+    width: 30%; /* Чтобы колонки не сжимались */
+    vertical-align: top;
+}
+ 
+.pclass {
+    display: inline; /* Или block, если хотим друг под другом. Твой код делал их строчными. */
+}
