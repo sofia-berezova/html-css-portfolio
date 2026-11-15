@@ -15,6 +15,8 @@
 | 07 | Футер сайта и CSS Grid | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/07-footer-grid/) |
 | 08 | Неоновая кнопка | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/08-neon-button/) |
 | 09 | Блочные и строчные теги | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/09-block-inline/) |
+| 10 | Карточка тарифа | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/10-pricing-card/) |
+| 11 | Боковое меню и Таблицы | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/11-sidebar-tables/) |
  
 ## 🛠️ Мой стек
 - **HTML5** — семантическая разметка
