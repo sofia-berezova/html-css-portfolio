@@ -12,6 +12,9 @@
 | 04 | Форматирование текста и стилизация | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/04-text-formatting/) |
 | 05 | Списки определений и кастомные маркеры | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/05-custom-lists/) |
 | 06 | Блочная модель (Box Model) | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/06-box-model/) |
+| 07 | Футер сайта и CSS Grid | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/07-footer-grid/) |
+| 08 | Неоновая кнопка | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/08-neon-button/) |
+| 09 | Блочные и строчные теги | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/09-block-inline/) |
  
 ## 🛠️ Мой стек
 - **HTML5** — семантическая разметка
