@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sidebar и Таблицы</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="sidebarbg">
+        <div class="sidebar">
+            <img class="sidebaritem" src="edit.png" alt="карандаш">
+            <span class="sidebartext">EDIT</span>
+        </div>
+        <div class="sidebar">
+            <img class="sidebaritem" src="favorites.png" alt="сердце">
+            <span class="sidebartext">FAVORITES</span>
+        </div>
+        <div class="sidebar">
+            <img class="sidebaritem" src="history.png" alt="часы">
+            <span class="sidebartext">HISTORY</span>
+        </div>
+        <div class="sidebar">
+            <img class="sidebaritem" src="security.png" alt="щит">
+            <span class="sidebartext">SECURITY</span>
+        </div>
+        <div class="sidebar">
+            <img class="sidebaritem" src="settings.png" alt="настройки">
+            <span class="sidebartext">SETTINGS</span>
+        </div>
+    </div>
+ 
+    <div class="content">
+        <h2>Таблица 1</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th></th>
+                    <th>Заголовок 1</th>
+                    <th>Заголовок 2</th>
+                    <th>Заголовок 3</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><b>Строка 1</b></td>
+                    <td>23</td>
+                    <td>43</td>
+                    <td>123</td>
+                </tr>
+                <tr>
+                    <td><b>Строка 2</b></td>
+                    <td>24</td>
+                    <td>44</td>
+                    <td>124</td>
+                </tr>
+            </tbody>
+        </table>
+ 
+        <h2>Таблица 2 (Объединение ячеек)</h2>
+        <table class="iksweb">
+            <tr>
+                <td rowspan="2"></td>
+                <td rowspan="2">Заголовок 1</td>
+                <td rowspan="2">Заголовок 2</td>
+                <td rowspan="2">Заголовок 3</td>
+                <td colspan="2">Заголовок 4</td>
+            </tr>
+            <tr>
+                <td>Подзаголовок 1</td>
+                <td>Подзаголовок 2</td>
+            </tr>
+            <tr>
+                <td>Строка 1</td>
+                <td>23</td>
+                <td>43</td>
+                <td>123</td>
+                <td>1</td>
+                <td>11</td>
+            </tr>
+            <tr>
+                <td>Строка 2</td>
+                <td>24</td>
+                <td>44</td>
+                <td>124</td>
+                <td>2</td>
+                <td>12</td>
+            </tr>
+            <tr>
+                <td>Строка 3</td>
+                <td>25</td>
+                <td>45</td>
+                <td>125</td>
+                <td>3</td>
+                <td>13</td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
