@@ -1,0 +1,36 @@
+p { 
+    border: 3px solid #9ac8e6;
+    margin: 0px 20px 40px 10px;
+    padding: 10px;
+}
+ 
+/* Стили для самих картинок внутри карточек */
+.imgclass {
+    border: 3px solid yellow;
+    padding: 10px; /* Уменьшил отступ, чтобы картинки влезли в карточку */
+    border-radius: 25px;
+    margin-bottom: 15px; /* Отступ только снизу */
+}
+ 
+/* Стили для карточек */
+.borderclass {
+    border: 1px solid grey;
+    border-radius: 25px;
+    height: 150px;
+    width: 130px;
+    padding: 15px;
+    margin: 0px 10px 20px 0px;
+    
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+ 
+/* Контейнер, чтобы карточки переносились на новую строку */
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+}
