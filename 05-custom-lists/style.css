@@ -1,0 +1,43 @@
+#style1 {
+    list-style-image: url('icon.png');
+}
+#id_Netflix {
+    list-style-image: url('iconnetflix.png');
+}
+#Kinopoisk {
+    list-style-image: url('iconkinopoisk.png');
+}
+#id_vk {
+    list-style-image: url('iconvk.png');
+}
+#blue {
+    color: blue;
+}
+.winter {
+    list-style-image: url('snowflake.png');
+}
+#green {
+    color: green;
+}
+.spring {
+    list-style-image: url('sheet.png');
+}
+#yellow {
+    color: goldenrod;
+}
+.summer {
+    list-style-image: url('sun.png');
+}
+#red {
+    color: orangered;
+}
+.autumn {
+    list-style-image: url('orange.png');
+}
+#id1 {
+    background-color: rgba(228, 228, 91, 0.993);
+    border: 2px solid rgb(0, 0, 0);
+}
+.id2 {
+    color: rgb(8, 99, 8);
+}
