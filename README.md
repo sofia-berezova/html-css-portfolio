@@ -10,6 +10,7 @@
 | 02 | Подключение CSS и классы | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/02-css-classes-and-images/) |
 | 03 | Нумерованные и маркированные списки | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/03-html-lists/) |
 | 04 | Форматирование текста и стилизация | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/04-text-formatting/) |
+| 05 | Списки определений и кастомные маркеры | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/05-custom-lists/) |
  
 ## 🛠️ Мой стек
 - **HTML5** — семантическая разметка
