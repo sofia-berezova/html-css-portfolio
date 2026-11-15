@@ -11,6 +11,7 @@
 | 03 | Нумерованные и маркированные списки | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/03-html-lists/) |
 | 04 | Форматирование текста и стилизация | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/04-text-formatting/) |
 | 05 | Списки определений и кастомные маркеры | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/05-custom-lists/) |
+| 06 | Блочная модель (Box Model) | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/06-box-model/) |
  
 ## 🛠️ Мой стек
 - **HTML5** — семантическая разметка
