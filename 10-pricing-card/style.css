@@ -1,0 +1,61 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+ 
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 4px 4px 15px 0px rgba(0, 0, 0, 0.1);
+    height: 400px;
+    width: 300px; /* Сделал чуть уже для красоты */
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ 
+.card h3 {
+    font-weight: normal;
+    margin: 10px 0;
+    font-size: 16px;
+    color: #333;
+}
+ 
+.buyButton {
+    background-color: #c000a0; /* Под цвет линии */
+    color: white;
+    border: 2px solid #c000a0;
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+    margin-top: auto; /* Прижимает кнопку к низу */
+}
+ 
+.buyButton:hover {
+    background-color: transparent;
+    color: #c000a0;
+}
+ 
+p {
+    color: grey;
+    margin-top: 0;
+}
+ 
+hr {
+    width: 80%;
+    border: none;
+    height: 4px;
+    background-color: #c000a0;
+    margin: 15px 0;
+}
