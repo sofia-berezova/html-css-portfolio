@@ -1,0 +1,21 @@
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0;
+    max-width: 1200px; 
+    margin: 0 auto;
+    padding: 20px;
+}
+ 
+.photo-grid img {
+    width: 100%;
+    display: block; /* Убирает лишние отступы под картинками */
+}
+ 
+/* Управление порядком картинок */
+.img-one { order: 1; }
+.img-two { order: 2; }
+.img-three { order: 4; }
+.img-four { order: 3; }
+.img-five { order: 5; }
+.img-six { order: 6; }
