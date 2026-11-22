@@ -18,6 +18,8 @@
 | 10 | Карточка тарифа | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/10-pricing-card/) |
 | 11 | Боковое меню и Таблицы | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/11-sidebar-tables/) |
 | 12 | Поля ввода и формы | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/12-input-forms/) |
+| 13 | Фотогалерея (CSS Grid) | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/13-photo-grid/) |
+| 14 | CSS-анимация (Овцы) | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/14-css-animation/) |
  
 ## 🛠️ Мой стек
 - **HTML5** — семантическая разметка
