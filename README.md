@@ -17,6 +17,7 @@
 | 09 | Блочные и строчные теги | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/09-block-inline/) |
 | 10 | Карточка тарифа | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/10-pricing-card/) |
 | 11 | Боковое меню и Таблицы | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/11-sidebar-tables/) |
+| 12 | Поля ввода и формы | HTML5, CSS3 | [Открыть страницу](https://sofia-berezova.github.io/html-css-portfolio/12-input-forms/) |
  
 ## 🛠️ Мой стек
 - **HTML5** — семантическая разметка
