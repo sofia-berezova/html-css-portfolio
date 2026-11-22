@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Тег ввода</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Тег ввода информации &lt;input&gt;</h2>
+ 
+    <!-- Ввод и кнопка -->
+    <input type="text">
+    <button>Ok</button>
+ 
+    <!-- Ввод пароля и кнопка -->
+    <input type="password">
+    <input type="button" value="Ok">
+    <input type="checkbox">
+ 
+    <div>
+        <label>Женский
+            <input type="radio" value="female" name="gender">
+        </label>
+        <label>Мужской
+            <input type="radio" value="male" name="gender">
+        </label>
+    </div>
+ 
+    <br>
+ 
+    <input type="color">
+    <input type="date">
+    <input type="time">
+    <input type="file">
+ 
+    <div>
+        <img id="myImage" src="edit.png" alt="Картинка" width="200" height="200">
+    </div>
+ 
+    <div>
+        <label>Размер: <span id="sizeValue">200</span>px</label>
+        <br>
+        <input type="range" id="sizeRange" min="50" max="500" value="200" step="5">
+    </div>
+ 
+    <br>
+ 
+    <input type="range">
+    <input type="range" min="1" max="100" step="1">
+    <input type="range" min="1" max="101" step="50">
+    <input disabled>
+ 
+    <input type="email">
+    <input type="text" placeholder="Введите имя">
+    <input readonly placeholder="Ваш промокод 11777">
+</body>
+</html>
