@@ -1,0 +1,50 @@
+body {
+    background: linear-gradient(#65c7f7, #dff6ff);
+    overflow: hidden; /* Убирает ползунки, если что-то вылезет за экран */
+    margin: 0;
+}
+ 
+.sky {
+    height: 100vh;
+    position: relative;
+}
+ 
+.sheep {
+    font-size: 90px;
+    animation: functionsheep 3s ease-in-out infinite alternate;
+    position: absolute; /* Чтобы овцы могли летать по всей странице */
+}
+ 
+.sheep-one {
+    top: 20%;
+    left: 10%;
+}
+.sheep-two {
+    top: 55%;
+    left: 10%;
+    animation-delay: 0.5s;
+}
+.sheep-three {
+    top: 35%;
+    left: 30%; /* Немного сдвинул, чтобы не слипались */
+}
+.sheep-four {
+    top: 70%;
+    left: 40%;
+    animation-delay: 0.5s;
+}
+ 
+@keyframes functionsheep {
+    0% {
+        transform: translateX(0);
+    }
+    25% {
+        transform: scale(1.5); /* Чуть уменьшил масштаб, чтобы овцы не были гигантскими */
+    }
+    50% {
+        transform: translateX(1200px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
